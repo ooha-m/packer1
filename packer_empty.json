@@ -1,4 +1,12 @@
 {
+ "variables": {
+    "client_id": " ",
+    "client_secret": " ",
+    "resource_group": " ",
+    "storage_account": " ",
+    "subscription_id": " ",
+    "tenant_id": " "
+  },
  "builders": [{
     "type": "azure-arm",
 
