@@ -1,12 +1,12 @@
 {
-    "variables": {
-    "client_id": "{{ env `client_id` }}",
-    "client_secret": "{{ env `client_secret` }}",
-    "resource_group": "{{ env `resource_group` }}",
-    "storage_account": "{{ env `storage_accoun` }}",
-    "subscription_id": "{{ env `subscription_id` }}",
-    "tenant_id": "{{ env `tenant_id` }} "
-   },
+   "variables": {
+    "client_id": " ",
+    "client_secret": " ",
+    "resource_group": " ",
+    "storage_account": " ",
+    "subscription_id": " ",
+    "tenant_id": " "
+  },
     "builders": [{
     "type": "azure-arm",
 
